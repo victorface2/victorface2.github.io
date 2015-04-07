@@ -1,0 +1,21 @@
+-
+  title: Home
+  url: /
+  group: navigation
+-
+  title: Projects
+  url: /projects/
+  group: navigation
+-
+  title: About
+  url: /about
+  group: navigation
+-
+  title: Resume
+  url: /Victor_Chen_Resume.pdf
+  group: navigation
+-
+  title: Github
+  url: http://www.github.com/victorface2
+  group: navigation
+-

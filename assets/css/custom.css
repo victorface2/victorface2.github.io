@@ -1,0 +1,50 @@
+.thumbnail.with-caption {
+  display: inline-block;
+  background: #f5f5f5;
+}
+.thumbnail.with-caption p {
+  margin: 0;
+  padding-top: 0.5em;
+}
+.thumbnail.with-caption small:before {
+  content: '\2014 \00A0';
+}
+.thumbnail.with-caption small {
+  width: 100%;
+  text-align: right;
+  display: inline-block;
+  color: #999;
+}
+
+.inline-photo {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar-inner {
+  background: none !important; 
+  border: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.navbar-inverse .nav .active > a {
+  background: 0 !important; 
+  color: #333 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.navbar-inverse .nav > li > a {
+  color: #333 !important;
+  text-shadow: none !important;
+}
+
+.navbar-inverse .nav > li > a:hover {
+  color: #333 !important;
+}
+
+h3{
+    padding: 0px;
+    margin: 0px;
+}

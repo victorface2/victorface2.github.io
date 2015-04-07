@@ -1,0 +1,21 @@
+---
+layout: page
+title: Projects
+group: navigation
+---
+{% include JB/setup %}
+
+
+{% for project in site.data.projects %}
+<br>
+<div class="row post">
+  <div class="span5">
+  	<br>
+    <img src="{{ project.img_link }}" alt="">
+  </div>
+  <div class="span7">
+    <h3>{{ project.name }}</h3>
+    <p>{{ project.desc_1 }}</p>
+  </div>
+</div>
+{% endfor %}
