@@ -48,3 +48,22 @@ h3{
     padding: 0px;
     margin: 0px;
 }
+
+li.author-social-linkedin {
+  background: url(/assets/images/ico-linkedin.png) no-repeat 0px;
+  padding-left: 20px;
+  list-style: none;
+}
+
+li.author-social-github {
+  background: url(/assets/images/ico-github.png) no-repeat 0px;
+  padding-left: 20px;
+  list-style: none;
+}
+
+li.author-social-twitter {
+  background: url(/assets/images/ico-twitter.png) no-repeat 0px;
+  padding-left: 20px;
+  list-style: none;
+}
+

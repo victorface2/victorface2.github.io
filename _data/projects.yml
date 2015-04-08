@@ -9,7 +9,7 @@
 -
   name: Pacman SLAM <div style="margin:0;" ><span style="font-size:15pt">(Simultaneous Localization and Mapping)</span></div>
   img_link: /assets/images/projects/pacmanslam.jpg
-  desc_1: <a href="" style="text-align:center" target="_blank">Private repo :(</a><br> An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world.
+  desc_1: <a href="" style="text-align:center">Private repo :(</a><br> An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world.
 -
   name: Panda Show
   img_link: /assets/images/projects/panda_show.png
@@ -17,7 +17,7 @@
 -
   name: Shark Education
   img_link: /assets/images/projects/shark_education.jpg
-  desc_1: <a href="https://github.com/victorface2/SharkEducation" target="_blank">Github</a> / <a href="https://www.youtube.com/watch?v=lw63P6ecRxc" target="_blank">Demo</a><br>This hack was made at HackUCI in May 2014. In the game, you ride a hoverboard along an endless ramp while dodging sharks that explode on impact and collecting cubes that increase your score. To make the game immersive, we taped a Wiimote on a longboard and used that as a controller for our hoverboard ingame, so people could actually control their characters by leaning left and right on the longboard.
+  desc_1: <a href="https://www.youtube.com/watch?v=lw63P6ecRxc" target="_blank">Video</a> / <a href="https://github.com/victorface2/SharkEducation" target="_blank">Github</a><br>This hack was made at HackUCI in May 2014. In the game, you ride a hoverboard along an endless ramp while dodging sharks that explode on impact and collecting cubes that increase your score. To make the game immersive, we taped a Wiimote on a longboard and used that as a controller for our hoverboard ingame, so people could actually control their characters by leaning left and right on the longboard.
 -
   name: Survive College
   img_link: /assets/images/projects/survive_college.png
