@@ -5,23 +5,23 @@
 -
   name: Zombie Toilet Attack
   img_link: /assets/images/projects/zombie_toilet_attack.png
-  desc_1: <a href="https://github.com/jeffreychien/zombietoilet" style="text-align:center" target="_blank">Github</a> / <a href="http://challengepost.com/software/zombie-toilet-attack" style="text-align:center" target="_blank">ChallengePost</a><br>This was a hack made at PennAppsX 2014, built using the Oculus Rift, Myo, and Unity3D. The premise of the game is that you're sitting on a toilet in a forest, and you have to throw toilet paper at zombies in order to defend yourself. We ended up making it to top 20 out of 300 teams, and achieved our goal of making 200+ people laugh during our demos as they saw toilet paper hitting zombies in virtual reality, from their own arm motions.
+  desc_1: <a href="https://github.com/jeffreychien/zombietoilet" style="text-align:center" target="_blank">Github</a> / <a href="http://challengepost.com/software/zombie-toilet-attack" style="text-align:center" target="_blank">ChallengePost</a><br>This was a hack made at PennAppsX 2014. The premise of the game is that you're sitting on a toilet in a forest, and you have to throw toilet paper at zombies in order to defend yourself. It was built with the Oculus Rift, Thalmic Myo, and Unity3D game engine. Although we ended up making it to top 20 out of 300 teams, we achieved our goal of making 200+ people laugh during our demo as they saw toilet paper hitting zombies in virtual reality, from their own arm motions.
 -
   name: Pacman SLAM <div style="margin:0;" ><span style="font-size:15pt">(Simultaneous Localization and Mapping)</span></div>
   img_link: /assets/images/projects/pacmanslam.jpg
-  desc_1: <a href="" style="text-align:center">Private repo :(</a><br> An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world, calculated as Pacman randomly moved through the map. 
--
-  name: Shark Education
-  img_link: /assets/images/projects/shark_education.jpg
-  desc_1: <a href="https://www.youtube.com/watch?v=lw63P6ecRxc" target="_blank">Check it out on youtube!</a> / <a href="https://github.com/victorface2/SharkEducation" target="_blank">Github</a><br>Shark Education is an Oculus Rift/Wiimote/Longboard based game, where you ride a hoverboard down an endless course while dodging exploding sharks and jumping off ramps to collect cubes. In the spirit of "hacking," to make the game truly immersive, we taped a Wiimote to the front of a longboard such that your movements on the longboard actually control your character ingame (and it was very responsive too!). We ended up taking top 10 overall, and again got a bunch of people to laugh as they saw themselves gliding down an endless virtual ramp.
+  desc_1: <a href="" style="text-align:center">Private repo :(</a><br> An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world.
 -
   name: Panda Show
   img_link: /assets/images/projects/panda_show.png
   desc_1: <a href="https://github.com/jeffreychien/pandashow" target="_blank">Github</a> / <a href="http://ignitis.io/projects/pandashow/home" target="_blank">Website</a><br>This was a hack made at the TechCrunch Disrupt Hackathon in September 2014. Basically, its a website where you click a panda and it gives you a list of trending TV shows you can watch. You then have the option to tweet or text your friends a peel link, which opens up the Peel Smart Remote app. We ended up winning Best Use of Peel API and had the chance to demo in front of 2000 people.
 -
+  name: Shark Education
+  img_link: /assets/images/projects/shark_education.jpg
+  desc_1: <a href="https://www.youtube.com/watch?v=lw63P6ecRxc" target="_blank">Video</a> / <a href="https://github.com/victorface2/SharkEducation" target="_blank">Github</a><br>This hack was made at HackUCI in May 2014. In the game, you ride a hoverboard along an endless ramp while dodging sharks that explode on impact and collecting cubes that increase your score. To make the game immersive, we taped a Wiimote on a longboard and used that as a controller for our hoverboard ingame, so people could actually control their characters by leaning left and right on the longboard.
+-
   name: Survive College
   img_link: /assets/images/projects/survive_college.png
-  desc_1: <a href="https://github.com/victorface2/collegesurvival" target="_blank">Github</a><br>What is this game? I took a Math 54 (Linear Algebra) midterm that was much harder than expected, and decided to make this game. In it, you're a small fox that shoots matricies at <a href="http://math.berkeley.edu/people/faculty/f-alberto-gruenbaum" class="textlink">Professor Grunbaum</a>, who in turn shoots matrix determinants and F's back at you. If you get hit, your GPA goes down and the Asian Dad shows up, and if Professor Grunbaum gets hit, his health goes down. The trick to the game is, just like Math 54, you can't actually win - Professor Grunbaum's health will go below 0 and there's nothing you can do about it.
+  desc_1: <a href="https://github.com/victorface2/collegesurvival" target="_blank">Github</a><br>This hack was made at UC Berkeley's HackJam, a small 12 hour hackathon that was held in September 2013. I decided to make this game after taking a Math 54 midterm on linear algebra, which ended up being much harder than expected. In the game, you are a fox who attempts to fight <a href="http://math.berkeley.edu/people/faculty/f-alberto-gruenbaum" class="textlink">Professor Grunbaum</a> by shooting matricies at him, and he shoots back F's and determinants to try to hurt you back. If you get hit, your GPA decreases and the asian dad shows up, and if Professor Grunbaum gets hit, his health decreases. The trick to the game is that, like in Math 54, you can't actually win, Professor Grunbaum's health can go below 0 and there's nothing you can do about it.
 -
   name: Stock Arbitrage Finder
   img_link: /assets/images/projects/tech_trader.jpg
