@@ -1,5 +1,5 @@
 -
-  name: Cat Text 
+  name: Cat Text
   img_link: /assets/images/projects/cattext.jpg
   desc_1: <a href="https://itunes.apple.com/us/app/cat-text-2.0/id956955872" style="text-align:center" target="_blank">CatText on iTunes!</a><br> A 5-star iPhone App that lets you send <b><u>HUNDREDS</u></b> of photos of cats to your friends, in a single text message. <br><br> "Oddly Useful!" - <i>Lake abandoned</i> <br><br> “It's all fun and games until someone texts you 100 photos of cats.” - <i>Jesse Byrnes</i> <br><br> "I love it and I'm not even kitten you right meow" - <i>CoolNicknameThatsNotTaken</i>
 -
@@ -9,7 +9,7 @@
 -
   name: Pacman SLAM <div style="margin:0;" ><span style="font-size:15pt">(Simultaneous Localization and Mapping)</span></div>
   img_link: /assets/images/projects/pacmanslam.jpg
-  desc_1: <a href="" style="text-align:center">Private repo :(</a><br> An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world, calculated as Pacman randomly moved through the map. 
+  desc_1: An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world, calculated as Pacman randomly moved through the map.
 -
   name: Shark Education
   img_link: /assets/images/projects/shark_education.jpg
