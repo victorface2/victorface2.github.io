@@ -1,27 +1,27 @@
 -
   name: Cat Text
   img_link: /assets/images/projects/cattext.jpg
-  desc_1: <a href="https://itunes.apple.com/us/app/cat-text-2.0/id956955872" style="text-align:center" target="_blank">CatText on iTunes!</a><br> A 5-star iPhone App that lets you send <b><u>HUNDREDS</u></b> of photos of cats to your friends, in a single text message. <br><br> "Oddly Useful!" - <i>Lake abandoned</i> <br><br> “It's all fun and games until someone texts you 100 photos of cats.” - <i>Jesse Byrnes</i> <br><br> "I love it and I'm not even kitten you right meow" - <i>CoolNicknameThatsNotTaken</i>
--
-  name: Zombie Toilet Attack
-  img_link: /assets/images/projects/zombie_toilet_attack.png
-  desc_1: <a href="https://github.com/jeffreychien/zombietoilet" style="text-align:center" target="_blank">Github</a> / <a href="http://challengepost.com/software/zombie-toilet-attack" style="text-align:center" target="_blank">ChallengePost</a><br>This was a hack made at PennAppsX 2014, built using the Oculus Rift, Myo, and Unity3D. The premise of the game is that you're sitting on a toilet in a forest, and you have to throw toilet paper at zombies in order to defend yourself. We ended up making it to top 20 out of 300 teams, and achieved our goal of making 200+ people laugh during our demos as they saw toilet paper hitting zombies in virtual reality, from their own arm motions.
--
-  name: Pacman SLAM <div style="margin:0;" ><span style="font-size:15pt">(Simultaneous Localization and Mapping)</span></div>
-  img_link: /assets/images/projects/pacmanslam.jpg
-  desc_1: An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world, calculated as Pacman randomly moved through the map.
+  desc_1: <a href="https://itunes.apple.com/us/app/cat-text-2.0/id956955872" style="text-align:center" target="_blank">CatText on iTunes!</a><br> An iPhone App that lets you send <b><u>HUNDREDS</u></b> of photos of cats to your friends, in a single text message. <br><br> "Oddly Useful!" - <i>Lake abandoned</i> <br><br> “It's all fun and games until someone texts you 100 photos of cats.” - <i>Jesse Byrnes</i> <br><br> "I love it and I'm not even kitten you right meow" - <i>CoolNicknameThatsNotTaken</i>
 -
   name: Shark Education
   img_link: /assets/images/projects/shark_education.jpg
   desc_1: <a href="https://www.youtube.com/watch?v=lw63P6ecRxc" target="_blank">Check it out on youtube!</a> / <a href="https://github.com/victorface2/SharkEducation" target="_blank">Github</a><br>Shark Education is an Oculus Rift/Wiimote/Longboard based game, where you ride a hoverboard down an endless course while dodging exploding sharks and jumping off ramps to collect cubes. In the spirit of "hacking," to make the game truly immersive, we taped a Wiimote to the front of a longboard such that your movements on the longboard actually control your character ingame (and it was very responsive too!). We ended up taking top 10 overall, and again got a bunch of people to laugh as they saw themselves gliding down an endless virtual ramp.
 -
-  name: Panda Show
-  img_link: /assets/images/projects/panda_show.png
-  desc_1: <a href="https://github.com/jeffreychien/pandashow" target="_blank">Github</a> / <a href="http://ignitis.io/projects/pandashow/home" target="_blank">Website</a><br>This was a hack made at the TechCrunch Disrupt Hackathon in September 2014. Basically, its a website where you click a panda and it gives you a list of trending TV shows you can watch. You then have the option to tweet or text your friends a peel link, which opens up the Peel Smart Remote app. We ended up winning Best Use of Peel API and had the chance to demo in front of 2000 people.
+  name: Zombie Toilet Attack
+  img_link: /assets/images/projects/zombie_toilet_attack.png
+  desc_1: <a href="http://challengepost.com/software/zombie-toilet-attack" style="text-align:center" target="_blank">ChallengePost</a><br>This was a hack made at PennAppsX 2014, built using the Oculus Rift, Myo, and Unity3D. The premise of the game is that you're sitting on a toilet in a forest, and you have to throw toilet paper at zombies in order to defend yourself. We ended up making it to top 20 out of 300 teams, and achieved our goal of making 200+ people laugh during our demos as they saw toilet paper hitting zombies in virtual reality, from their own arm motions.
 -
   name: Survive College
   img_link: /assets/images/projects/survive_college.png
   desc_1: <a href="https://github.com/victorface2/collegesurvival" target="_blank">Github</a><br>What is this game? I took a Math 54 (Linear Algebra) midterm that was much harder than expected, and decided to make this game. In it, you're a small fox that shoots matricies at <a href="http://math.berkeley.edu/people/faculty/f-alberto-gruenbaum" class="textlink">Professor Grunbaum</a>, who in turn shoots matrix determinants and F's back at you. If you get hit, your GPA goes down and the Asian Dad shows up, and if Professor Grunbaum gets hit, his health goes down. The trick to the game is, just like Math 54, you can't actually win - Professor Grunbaum's health will go below 0 and there's nothing you can do about it.
+-
+  name: Pacman SLAM <div style="margin:0;" ><span style="font-size:15pt">(Simultaneous Localization and Mapping)</span></div>
+  img_link: /assets/images/projects/pacmanslam.jpg
+  desc_1: An extra credit assignment for CS188 Artificial Intelligence at UC Berkeley where we used particle filters to generate a belief space of walls in the Pacman world, calculated as Pacman randomly moved through the map.
+-
+  name: Panda Show
+  img_link: /assets/images/projects/panda_show.png
+  desc_1: <a href="https://github.com/jeffreychien/pandashow" target="_blank">Github</a> / <a href="http://ignitis.io/projects/pandashow/home" target="_blank">Website</a><br>This was a hack made at the TechCrunch Disrupt Hackathon in September 2014. Basically, its a website where you click a panda and it gives you a list of trending TV shows you can watch. You then have the option to tweet or text your friends a peel link, which opens up the Peel Smart Remote app. We ended up winning Best Use of Peel API and had the chance to demo in front of 2000 people.
 -
   name: Stock Arbitrage Finder
   img_link: /assets/images/projects/tech_trader.jpg
